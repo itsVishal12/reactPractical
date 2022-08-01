@@ -1,0 +1,22 @@
+.custom-border-can {
+    border: 1px solid #ECECEC;
+}
+
+.custom-border-can img {
+    width: 100%;
+}
+
+.text-area-non {
+    text-align: center;
+    padding: 15px 20px;
+}
+
+.text-area-non h3 {
+    font-size: 28px;
+}
+
+.text-area-non .price {
+    font-size: 20px;
+    font-weight: 300;
+    color: #5c5c5c;
+}

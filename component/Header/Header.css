@@ -1,0 +1,24 @@
+.center-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center-screen h1 {
+    background-color: rgb(255, 191, 64);
+    padding: 15px 25px;
+    margin: 0;
+    border-radius: 10px;
+}
+
+.center-element {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto !important;
+}
+
+.bg-clock {}

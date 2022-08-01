@@ -1,0 +1,18 @@
+.center-element {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.center-element h3 {
+    width: 100%;
+    max-width: 500px;
+    text-align: center;
+    font-size: 80px;
+    color: #000;
+}
+
+.center-element button {
+    display: none;
+}
