@@ -1,0 +1,56 @@
+body{
+    background-color: #940ac6;
+   
+}
+form {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+form input[type="text"]{
+
+    width: 100%;
+    display: block;
+    height: 40px;
+    padding: 5px 15px;
+    text-align: center;
+    margin: 20px 0px;
+    font-size: 17px;
+    font-weight: 500;
+
+}
+form input[type="email"]{
+
+    width: 100%;
+    display: block;
+    height: 40px;
+    padding: 5px 15px;
+    text-align: center;
+    margin: 20px 0px;
+    font-size: 17px;
+    font-weight: 500;
+
+}
+.form-custom button {
+    background-color: black;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.form-custom {
+    width: 100%;
+}
+.form-Heading {
+    font-size: 3rem;
+    color: #fff;
+    margin-bottom: 1rem;
+    text-align: center;
+    font-weight: 600;
+}

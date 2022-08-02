@@ -1,0 +1,31 @@
+ul{
+    list-style: none;
+    color: #fff;
+    font-size: 20px;
+}
+ul {
+    list-style: none;
+    color: #fff;
+    font-size: 20px;
+    margin: 0px!important;
+    padding: 0px;
+}
+
+ button {
+    background-color: #fff;
+    color: #000;
+    margin-left: 10px;
+    border: 0;
+    height: 40px;
+    width: 40px;
+    font-size: 30px;
+    line-height: 8px;
+    padding: 0;
+    display: inline-block;
+    margin-right: 10px;
+}
+.todolistitems {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
